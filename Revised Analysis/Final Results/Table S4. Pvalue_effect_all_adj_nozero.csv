@@ -1,0 +1,103 @@
+Figure,Variable,GERM STATUS,DIET,GERM STATUS*DIET,Meff,Method Used
+Fig 1 D,Liver Weight (g),6.773E-14,6.7154E-12,0.00001519,1,Two-way ANOVA with log transfor
+Fig 1 E-J,Plasma Active GLP-1,1.1615E-30,0.59145058,0.9999,2,Two-way ANOVA with log transfor
+Fig 1 E-J,Plasma Glucagon,0.00138213,0.00247914,0.00647451,2,Two-way ANOVA with log transfor
+Fig 1 E-J,Plasma Insulin,1.51753E-7,0.00006059,0.9999,2,Two-way ANOVA with log transfor
+Fig 1 E-J,Plasma Leptin,8.25008E-6,4.38551E-7,0.9999,2,Two-way ANOVA
+Fig 1 E-J,Plasma MCP-1,6.99947E-7,0.38186463,0.51709689,2,Two-way ANOVA with log transfor
+Fig 1 E-J,Plasma PYY,5.7462E-22,0.13443866,0.00003599,2,Two-way ANOVA with log transfor
+Fig 1 K-L revised,Fast Glucose,0.01017481,0.00488528,0.20242576,1,Two-way ANOVA
+Fig 1 K-L revised,gWAT Weight,0.00700243,1.6773E-10,0.37003388,1,Two-way ANOVA
+Fig 1 M revised,Steatosis %,0.00004147,0.0000167,0.02545057,1,Two-way ANOVA
+Fig 3 A-H revised,Plasma Acylcarnitine 16:1,7.7818E-12,1.02087E-8,0.01478748,2,Two-way ANOVA with log transfor
+Fig 3 A-H revised,Plasma Cer d 18:1_24:1,0.9999,0.02394752,0.9999,2,Two-way ANOVA with log transfor
+Fig 3 A-H revised,Plasma Cer.d.18:1-22:0,7.0791E-11,6.1171E-10,0.00114272,2,Two-way ANOVA
+Fig 3 A-H revised,Plasma Cholesterol,0.00001658,4.888E-15,0.00883845,2,Two-way ANOVA with log transfor
+Fig 3 A-H revised,Plasma FA 22:5,0.00004797,5.559E-22,0.00811818,2,Two-way ANOVA with log transfor
+Fig 3 A-H revised,Plasma KDdiA-PC,0.10503314,2.82107E-6,0.9999,2,Two-way ANOVA with log transfor
+Fig 3 A-H revised,Plasma TG 16:0_18:1_18:1 isomer,0.2772748,3.218E-16,0.59554352,2,Two-way ANOVA with log transfor
+Fig 3 A-H revised,Plasma TG 18:1_20:4_22:6,0.9999,7.7097E-21,0.55633437,2,Two-way ANOVA with log transfor
+Fig 3 I-P,Liver Cer d42-2,2.70541E-6,9.3827E-28,0.22753297,3,Two-way ANOVA
+Fig 3 I-P,Liver LPE-N  36:4,0.00064841,1.652E-12,0.13199954,3,Two-way ANOVA with log transfor
+Fig 3 I-P,Liver PC38:5 IsomerA,0.01441286,2.6672E-16,0.17976947,3,Two-way ANOVA with log transfor
+Fig 3 I-P,Liver PC40:6,0.9999,2.5221E-31,0.02764437,3,Two-way ANOVA with log transfor
+Fig 3 I-P,Liver PE 38:4,0.00010637,3.4647E-14,0.01200181,3,Two-way ANOVA with log transfor
+Fig 3 I-P,Liver PE 38:5,3.1186E-7,8.7956E-25,0.00485392,3,Two-way ANOVA
+Fig 3 I-P,Liver PI 38:3,0.01266662,1.0496E-21,0.00673323,3,Two-way ANOVA
+Fig 3 I-P,Liver TG O57:3,0.0020671,1.0301E-18,0.03584868,3,Two-way ANOVA
+Fig 4 A-H,LIVER 12-OH,3.1411E-10,0.00048058,0.02129889,3,Two-way ANOVA with log transfor
+Fig 4 A-H,LIVER CLA1,4.7956E-28,3.9467E-10,1.81798E-6,3,Two-way ANOVA with log transfor
+Fig 4 A-H,LIVER HYARA,0.03508341,0.19250461,0.12027928,3,Two-way ANOVA with log transfor
+Fig 4 A-H,LIVER HYE,,,,,Permutation test
+Fig 4 A-H,LIVER aHYA,,,,,Permutation test
+Fig 4 A-H,LIVER aKETOD,,,,,Permutation test
+Fig 4 A-H,LIVER gHYA,,,,,Permutation test
+Fig 4 A-H,LIVER gKETOB,0.00686664,0.89070851,0.34559083,3,Two-way ANOVA with log transfor
+Fig 4 I-P,"LIVER 12,13 DIHOME",6.2749E-18,3.1111E-12,0.68194737,3,Two-way ANOVA with log transfor
+Fig 4 I-P,"LIVER 14,15 DIHETE",0.03417818,0.00011143,0.19933997,3,Two-way ANOVA with log transfor
+Fig 4 I-P,LIVER 18-RESOLVIN E2,,,,,Permutation test
+Fig 4 I-P,LIVER 20-HETE,,,,,Permutation test
+Fig 4 I-P,LIVER LIPOXIN,5.94772E-6,6.8931E-13,3.1515E-12,3,Two-way ANOVA with log transfor
+Fig 4 I-P,LIVER N-DGLA EA,,,,,Permutation test
+Fig 4 I-P,LIVER Protectin dx,0.00257301,1.0274E-10,0.00002953,3,Two-way ANOVA
+Fig 4 I-P,LIVER RESOLVIN D5,,,,,Permutation test
+Fig S2 revised,Bacteroidetes,1.3685E-22,0.37674521,0.07523873,2,Two-way ANOVA with log transfor
+Fig S2 revised,Deferribacteres,1.6656E-21,0.90230558,0.58240051,2,Two-way ANOVA with log transfor
+Fig S2 revised,Delta and gammaproteobacteria,0.0005515,0.26563188,0.0369112,2,Two-way ANOVA with log transfor
+Fig S2 revised,Desulfobacterota,4.1979E-14,0.82023274,0.10466776,2,Two-way ANOVA with log transfor
+Fig S2 revised,Firmicutes,0.08220185,0.39733169,0.30331186,2,Two-way ANOVA with log transfor
+Fig S2 revised,Verrucomicrobia,1.71186E-7,0.9999,0.4612222,2,Two-way ANOVA with log transfor
+Fig S3 revised do,COLON ACC1,0.00004273,0.00683898,0.05227888,1,Two-way ANOVA with log transfor
+Fig S3 revised do,COLON CD68,0.58861103,0.09989744,0.04073654,1,Two-way ANOVA with log transfor
+Fig S3 revised do,COLON FASN,0.2402769,0.02482779,0.11833936,1,Two-way ANOVA with log transfor
+Fig S3 revised do,COLON SREBF1,5.80497E-7,0.03513434,0.00020793,1,Two-way ANOVA with log transfor
+Fig S3 revised do,Hepatic ACC1,2.5852E-11,1.36206E-8,6.5819E-15,1,Two-way ANOVA with log transfor
+Fig S3 revised do,Hepatic CD68,0.00317197,0.0005786,1.38213E-9,1,Two-way ANOVA with log transfor
+Fig S3 revised do,Hepatic FASN,0.46769836,0.0037833,3.7131E-11,1,Two-way ANOVA with log transfor
+Fig S3 revised do,Hepatic Srebf1,0.95377458,7.89033E-9,2.6017E-15,1,Two-way ANOVA with log transfor
+Fig S3 revised do,gWAT ACC1,0.01687401,8.7456E-8,0.29337498,2,Two-way ANOVA
+Fig S3 revised do,gWAT CD68,2.08207E-6,0.02520927,0.33373637,2,Two-way ANOVA with log transfor
+Fig S3 revised do,gWAT FASN,0.49645648,0.00129711,0.15791906,2,Two-way ANOVA with log transfor
+Fig S3 revised do,gWAT SREBF1,0.9999,4.65651E-9,0.21333006,2,Two-way ANOVA
+Fig S5 A-H revise,PLASMA 12-HAS,,,,,Permutation test
+Fig S5 A-H revise,PLASMA 12-Oxo,,,,,Permutation test
+Fig S5 A-H revise,PLASMA CALA2+CGLA1,0.14880389,0.00039872,0.53739125,3,Two-way ANOVA with log transfor
+Fig S5 A-H revise,PLASMA CGLA2,0.47310215,0.00195201,0.22058108,3,Two-way ANOVA with log transfor
+Fig S5 A-H revise,PLASMA HYA,5.4356E-8,0.00003932,0.06765816,3,Two-way ANOVA with log transfor
+Fig S5 A-H revise,PLASMA HYB,1.3325E-14,1.27666E-9,3.83614E-9,3,Two-way ANOVA with log transfor
+Fig S5 A-H revise,PLASMA aHYA+aHYC,,,,,Permutation test
+Fig S5 A-H revise,PLASMA gHYD,,,,,Permutation test
+Fig S5 I-P revise,ILEUM 12-HAS,0.1279042,1.36546E-7,0.00056706,4,Two-way ANOVA with log transfor
+Fig S5 I-P revise,ILEUM 12-Oxo,0.04309384,0.18533512,0.00533402,4,Two-way ANOVA with log transfor
+Fig S5 I-P revise,ILEUM HYA,3.1336E-16,1.2553E-10,0.9999,4,Two-way ANOVA with log transfor
+Fig S5 I-P revise,ILEUM KETOA,0.00115257,3.46941E-8,5.70152E-8,4,Two-way ANOVA with log transfor
+Fig S5 I-P revise,ILEUM aHYA+aHYC,0.9999,3.5744E-18,0.9999,4,Two-way ANOVA with log transfor
+Fig S5 I-P revise,ILEUM aKETOD,,,,,Permutation test
+Fig S5 I-P revise,ILEUM gHYD,,,,,Permutation test
+Fig S5 I-P revise,ILEUM gLA+CALA3,0.00002481,3.6663E-36,1.31257E-7,4,Two-way ANOVA with log transfor
+Fig S6 revised do,10-HODE,8.5523E-21,2.4774E-12,0.07951949,4,Two-way ANOVA with log transfor
+Fig S6 revised do,"11,12-DiHETE",5.8744E-10,1.1387E-26,0.9999,4,Two-way ANOVA with log transfor
+Fig S6 revised do,"11,12-DiHETre",5.6359E-20,2.37895E-7,0.58515095,4,Two-way ANOVA with log transfor
+Fig S6 revised do,12-HODE,3.9537E-22,7.34534E-9,0.75537986,4,Two-way ANOVA with log transfor
+Fig S6 revised do,13-KODE,,,,,Permutation test
+Fig S6 revised do,"14,15-DiHETre",8.2804E-22,6.0528E-10,0.47606559,4,Two-way ANOVA with log transfor
+Fig S6 revised do,15-HETE,1.9718E-22,2.4913E-20,0.00862162,4,Two-way ANOVA with log transfor
+Fig S6 revised do,15-deoxy-PGJ2,,,,,Permutation test
+Fig S6 revised do,"16,17-DeHDoPE",3.3741E-15,4.29828E-9,0.9999,4,Two-way ANOVA with log transfor
+Fig S6 revised do,"17,18-DiHETE",0.04050173,0.00540821,0.68213815,4,Two-way ANOVA with log transfor
+Fig S6 revised do,5-HEPE,0.00028268,1.93671E-8,8.23168E-6,4,Two-way ANOVA with log transfor
+Fig S6 revised do,"8,15-DiHETE",0.9999,0.00335706,0.9999,4,Two-way ANOVA with log transfor
+Fig S6 revised do,"8,9-DiHETE",0.37822392,0.00595271,0.9999,4,Two-way ANOVA with log transfor
+Fig S6 revised do,"8,9-DiHETre",7.602E-23,6.64054E-7,0.21689287,4,Two-way ANOVA with log transfor
+Fig S6 revised do,9-HODE,0.03294053,4.65452E-8,0.9999,4,Two-way ANOVA with log transfor
+Fig S6 revised do,9-HOTE,0.1955311,0.00113715,0.9999,4,Two-way ANOVA with log transfor
+Fig S6 revised do,9.10-DiHOME,2.0874E-18,3.59839E-7,0.9999,4,Two-way ANOVA with log transfor
+Fig S6 revised do,Leukotriene B4,,,,,Permutation test
+Fig S6 revised do,N-C22:6n3_EA,,,,,Permutation test
+Fig S6 revised do,Prostaglandin E2,0.7196401,0.09198848,0.9999,4,Two-way ANOVA
+Fig S9 revised do,Alanine/Sarcosine - C18:2,0.9999,0.52305142,0.83395622,2,Two-way ANOVA with log transfor
+Fig S9 revised do,Glycine C12:2,0.02250421,1.5623E-10,0.17831696,2,Two-way ANOVA
+Fig S9 revised do,Glycine C18:1,0.9999,0.36996849,0.9999,2,Two-way ANOVA with log transfor
+Fig S9 revised do,Lysine C18:1,0.9999,0.80934477,0.9999,2,Two-way ANOVA with log transfor
+Fig S9 revised do,Methionine C2:0,0.9999,0.02963666,0.9999,2,Two-way ANOVA
+Fig S9 revised do,Tyrosine C 18:2,0.17320982,0.02476326,0.7629457,2,Two-way ANOVA with log transfor
