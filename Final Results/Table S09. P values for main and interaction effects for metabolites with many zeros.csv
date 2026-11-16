@@ -1,0 +1,19 @@
+Figure,Variable,germ status,diet,GERM STATUS*DIET,Method Used
+Fig 4 A-H,LIVER aHYA,0,0,0,Permutation test
+Fig 4 A-H,LIVER aKETOD,0,0,0,Permutation test
+Fig 4 A-H,LIVER HYE,0,0.1191,0.0018,Permutation test
+Fig 4 A-H,LIVER gHYA,0.014,0,0.0003,Permutation test
+Fig 4 I-P,LIVER 18-RESOLVIN E2,0.1411,0,0.7361,Permutation test
+Fig 4 I-P,LIVER RESOLVIN D5,0.0753,0,0.0011,Permutation test
+Fig 4 I-P,LIVER 20-HETE,0,0.0679,0.0695,Permutation test
+Fig 4 I-P,LIVER N-DGLA EA,0,0,0,Permutation test
+Fig S5 A-H revised done,PLASMA aHYA+aHYC,0.0202,0,0.7417,Permutation test
+Fig S5 A-H revised done,PLASMA gHYD,0.6395,0,0.6778,Permutation test
+Fig S5 A-H revised done,PLASMA 12-HAS,0.0363,0.002,0.0551,Permutation test
+Fig S5 A-H revised done,PLASMA 12-OXO,0.0005,0.0316,0.0663,Permutation test
+Fig S5 I-P revised done,ILEUM aKETOD,0.3689,0,0.5681,Permutation test
+Fig S5 I-P revised done,ILEUM gHYD,0,0,0,Permutation test
+Fig S6 revised done,Leukotriene B4,0.0013,0.0035,0.9991,Permutation test
+Fig S6 revised done,15-deoxy-PGJ2,0,0,0,Permutation test
+Fig S6 revised done,N-C22:6n3_EA,0.0002,0,0.8056,Permutation test
+Fig S6 revised done,13-KODE,0.0306,0,0.0023,Permutation test
