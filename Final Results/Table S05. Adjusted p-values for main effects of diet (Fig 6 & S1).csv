@@ -1,0 +1,22 @@
+Figure,Variable,DIET,Meff,Method Used
+Fig 6 B-L revised,Body Weight (g),8.1815E-6,2,One-way ANOVA
+Fig 6 B-L revised,Liver 12-Hydroxystearic Acid,4.44548E-6,2,One-way ANOVA with log transfor
+Fig 6 B-L revised,Liver 12-Oxostearic Acid,1.589E-11,2,One-way ANOVA with log transfor
+Fig 6 B-L revised,Liver Cer d38:1,2.30778E-7,2,One-way ANOVA with log transfor
+Fig 6 B-L revised,Liver PC 20:1_14:1,0.00010932,2,One-way ANOVA
+Fig 6 B-L revised,Liver Ricinoleic Acid,2.0164E-15,2,One-way ANOVA with log transfor
+Fig 6 B-L revised,Liver TG 14:0_16:0_16:0,0.00006996,2,One-way ANOVA
+Fig 6 B-L revised,Liver Weight (g),0.00012337,2,One-way ANOVA
+Fig 6 B-L revised,Necropsy Blood Glucose (mg/dL),0.00023572,2,One-way ANOVA
+Fig 6 B-L revised,gWAT Weight (g),7.14675E-6,2,One-way ANOVA
+Fig 6 P-S revised,Ciart,0.01966846,2,One-way ANOVA
+Fig 6 P-S revised,Cyp4a14,0.0064477,2,One-way ANOVA
+Fig 6 P-S revised,Rsph9,0.00465637,2,One-way ANOVA
+Fig 6 P-S revised,Slc01a1,0.00121036,2,One-way ANOVA
+Fig S1 revised,Diet  TG 18:1_18:1_18:1,9.00986E-7,3,One-way ANOVA with log transfor
+Fig S1 revised,Diet  TG 18:3_18:3_18:3,1.3156E-13,3,One-way ANOVA with log transfor
+Fig S1 revised,Diet TG 12:0_12:0_14:0,0.00069688,3,One-way ANOVA with log transfor
+Fig S1 revised,Diet TG 12:0_18:2_22:6,5.7858E-13,3,One-way ANOVA with log transfor
+Fig S1 revised,Diet TG 16:0_20:4_20:5 minor,3.60735E-8,3,One-way ANOVA with log transfor
+Fig S1 revised,Diet TG 18:1_18:2_18:2,0.00005686,3,One-way ANOVA
+Fig S1 revised,Diet TG 18:2_20:3_22:0,2.17669E-6,3,One-way ANOVA with log transfor

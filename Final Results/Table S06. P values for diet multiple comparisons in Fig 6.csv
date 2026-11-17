@@ -1,0 +1,15 @@
+Figure,Variable,12-HSA,12-Oxo,RA,Meff,Method Used
+Fig 6 B-L revised,Body Weight (g),0.9999,0.9999,6.82381E-6,2,One-way ANOVA
+Fig 6 B-L revised,Liver 12-Hydroxystearic Acid,8.07789E-6,0.00002081,0.07216784,2,One-way ANOVA with log transfor
+Fig 6 B-L revised,Liver 12-Oxostearic Acid,0.00002429,1.1537E-11,0.19392643,2,One-way ANOVA with log transfor
+Fig 6 B-L revised,Liver Cer d38:1,0.00012308,8.12028E-6,8.92287E-8,2,One-way ANOVA with log transfor
+Fig 6 B-L revised,Liver PC 20:1_14:1,0.00081548,0.0000515,0.04321796,2,One-way ANOVA
+Fig 6 B-L revised,Liver Ricinoleic Acid,0.9999,0.5795305,2.0171E-12,2,One-way ANOVA with log transfor
+Fig 6 B-L revised,Liver TG 14:0_16:0_16:0,0.3330982,0.00057529,0.9999,2,One-way ANOVA
+Fig 6 B-L revised,Liver Weight (g),0.9999,0.9999,0.00064676,2,One-way ANOVA
+Fig 6 B-L revised,Necropsy Blood Glucose (mg/dL),0.63009066,0.9999,0.00015749,2,One-way ANOVA
+Fig 6 B-L revised,gWAT Weight (g),0.99706076,0.61417703,4.20595E-6,2,One-way ANOVA
+Fig 6 P-S revised,Ciart,0.15425359,0.00732992,0.07624754,2,One-way ANOVA
+Fig 6 P-S revised,Cyp4a14,0.9999,0.00335998,0.70920537,2,One-way ANOVA
+Fig 6 P-S revised,Rsph9,0.00225467,0.01215635,0.02835851,2,One-way ANOVA
+Fig 6 P-S revised,Slc01a1,0.23550101,0.9999,0.0011045,2,One-way ANOVA
